@@ -29,7 +29,18 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 
   
 ### 🖥️ Мои сертификаты с курса 1С-программист
-[[https://github.com/MaryanaSl/certificates-netology.git](https://github.com/MaryanaSl/certificates-netology/blob/main/01_certificate%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B.pdf)](https://github.com/MaryanaSl/certificates-netology/blob/main/01_certificate%20%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B.pdf)
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(1)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(1)_page-0001.jpg" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(2)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(2)_page-0001.jpg" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(3)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(3)_page-0001.jpg" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(4)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(4)_page-0001.jpg" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(5)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(5)_page-0001.jpg" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(6)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(6)_page-0001.jpg" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
 
 ### ⚙️ Мои инструменты
 <img src="https://github.com/Oxotka/Oxotka/raw/main/src/logo1cm.png" alt="1C" width="40" height="40" style="max-width: 100%;">
