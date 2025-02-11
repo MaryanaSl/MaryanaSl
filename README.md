@@ -29,6 +29,14 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 
   
 ### 🖥️ Мои сертификаты с курса 1С-программист
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(1)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(1)_page-0001.jpg" style="max-width: 100%;"></a></td>
@@ -40,6 +48,8 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(5)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(5)_page-0001.jpg" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/volonter08/certificates-netology/blob/main/certificate%20(6)_page-0001.jpg"><img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/volonter08/certificates-netology/raw/main/certificate%20(6)_page-0001.jpg" style="max-width: 100%;"></a></td>
 </tr>
+</tbody>
+</table></markdown-accessiblity-table>
 </tbody>
 
 ### ⚙️ Мои инструменты
