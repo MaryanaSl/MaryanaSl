@@ -29,6 +29,9 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 
   
 ### 🖥️ Мои сертификаты с курса 1С-программист
+
+  ![Image alt](https://github.com/MaryanaSl/certificates-netology/blob/main/01_certificate%20логические%20операторы_page-0001.jpg)
+  
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
