@@ -29,26 +29,6 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 
   
 ### 🖥️ Мои сертификаты с курса 1С-программист
-![01_certificate логические операторы_page-0001](https://github.com/user-attachments/assets/c3f5a511-206a-46b4-860f-636d1e47fedf)
-![02_certificate встроеннный язык_page-0001](https://github.com/user-attachments/assets/6287cd9f-fb6e-4c3e-898d-779261e86c56)
-![03_certificate интерфейс_page-0001](https://github.com/user-attachments/assets/a504d5f6-aac1-48ca-9ff5-d1926969c6ab)
-![04_certificate справочники и документы_page-0001](https://github.com/user-attachments/assets/a2456d94-989c-47f0-a864-9f6c75b494e3)
-![05_certificate регистры_page-0001](https://github.com/user-attachments/assets/1c9cd383-ffbf-4dec-b67b-30248b54dc03)
-![06_certificate файлы_page-0001](https://github.com/user-attachments/assets/3524c870-86b8-4d4b-b4f9-2deb5be36ba4)
-![07_certificate Запросы и отчеты_page-0001](https://github.com/user-attachments/assets/e9640da0-4406-4e63-940e-05916e172b12)
-![08_certificate интеграция и обмен данными_page-0001](https://github.com/user-attachments/assets/753647a2-15b8-4925-b8ab-b4082335564a)
-![09_certificate механизмы учета_page-0001](https://github.com/user-attachments/assets/0ccf568e-25b6-4fc8-a9d6-444c16f9555b)
-![10_certificate механизмы расчета_page-0001](https://github.com/user-attachments/assets/8adcc4e1-66ea-49e4-acf4-4e01d62f2ac9)
-![11_certificate бизнес процессы и задачи_page-0001](https://github.com/user-attachments/assets/146edf39-c528-45de-b3f5-0a87cb46ad1c)
-![12_certificate доработка типовых конфигураций_page-0001](https://github.com/user-attachments/assets/9c78d4e1-b1fd-45fd-8ff3-be03a1c53e5b)
-![13_certificate библиотека стандартных подсистем_page-0001](https://github.com/user-attachments/assets/3468b8eb-3f30-4d09-8b1f-9339fe9094c6)
-![14_certificate доп возможности 1С_page-0001](https://github.com/user-attachments/assets/46996d7d-8cc1-41db-9c14-125f54a6c5db)
-![15 certificate тестирование_page-0001](https://github.com/user-attachments/assets/39cf8756-7dec-4cc2-8789-62c7072c250a)
-![16 certificate мобильная разработка_page-0001](https://github.com/user-attachments/assets/cb7d5f0e-7e78-4cb1-b607-336bd7932eaa)
-![17 certificate подготовка к экзаменам_page-0001](https://github.com/user-attachments/assets/da5fee04-9986-4725-b296-3970bd984247)
-![certificate полный курс_page-0001](https://github.com/user-attachments/assets/6d1f0e62-ef89-41da-8315-04bc87afca32)
-
-
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
