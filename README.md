@@ -79,7 +79,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 </table></markdown-accessiblity-table>
 </tbody>
 
-### ⚙️ Мои инструменты
+## ⚙️ Мои инструменты
 <img src="https://github.com/Oxotka/Oxotka/raw/main/src/logo1cm.png" alt="1C" width="40" height="40" style="max-width: 100%;">
 
 <code><img height="30" src="[https://avatars0.githubusercontent.com/u/1525981?s=200&v=4](https://v8.1c.ru/)"></code>
