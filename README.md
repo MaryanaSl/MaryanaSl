@@ -30,10 +30,6 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
   
 ### 🖥️ Мои сертификаты с курса 1С-программист
 
-  ![Image alt](https://github.com/MaryanaSl/certificates-netology/blob/main/01_certificate%20логические%20операторы_page-0001.jpg)
-  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="[02_certificate встроеннный язык_page-0001](https://github.com/user-attachments/assets/595b1af9-6496-4dcc-86a3-1b0711fa3372)" style="max-width: 100%;"
-![04_certificate справочники и документы_page-0001](https://github.com/user-attachments/assets/aef40730-f494-4be3-8c27-33cecc21b8f9)
-
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
