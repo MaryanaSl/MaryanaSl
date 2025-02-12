@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
-### :woman_technologist: Немного обо мне
+## :woman_technologist: Немного обо мне
 
 I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
@@ -40,7 +40,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
-### 🖥️ Мои сертификаты с курса 1С-программист
+## 🖥️ Мои сертификаты с курса 1С-программист
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
