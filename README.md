@@ -3,11 +3,17 @@
 </div>
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Привет👋 Меня зовут Марьяна!</h1><a id="user-content-привет-меня-зовут-алексей" class="anchor" aria-label="Permalink: Привет👋 Меня зовут Алексей!" href="#привет-меня-зовут-алексей"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
   
-### 📬 Меня можно найти тут
 <div align="center" dir="auto">
    <a href="https://t.me/Maryasha_Sl" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c2f78ed4e6c65c4bee20af08221ac2fb4a113cd1763afec0104b898e867fdf97/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d54656c656772616d266c6f676f3d74656c656772616d266c6162656c3d26636f6c6f723d324341354530266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="25" alt="telegram logo" data-canonical-src="https://img.shields.io/static/v1?message=Telegram&amp;logo=telegram&amp;label=&amp;color=2CA5E0&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
   </a>
+<a href="https://github.com/MaryanaSl">
+    <img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/" />
+ </a>
+ <a href="mailto:defcon.slukinamaryana@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.slukinamaryana@gmail.com" />
+ </a>
+   
 </div>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/MaryanaSl/) 
