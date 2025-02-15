@@ -40,8 +40,8 @@
 
 ## ⚡️ Мои проекты
 
-- 🔭 https://github.com/MaryanaSl/-1/blob/main/README.md
-- I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
+- 🔭 https://github.com/MaryanaSl/-1
+- https://github.com/MaryanaSl/Project2
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
