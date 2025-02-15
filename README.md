@@ -42,7 +42,7 @@
 
 - 🔭 https://github.com/MaryanaSl/-1
 - https://github.com/MaryanaSl/Project2
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- https://github.com/MaryanaSl/Project3/tree/main
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
