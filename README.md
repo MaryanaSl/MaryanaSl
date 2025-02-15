@@ -43,7 +43,7 @@
 - 🔭 https://github.com/MaryanaSl/-1
 - https://github.com/MaryanaSl/Project2
 - https://github.com/MaryanaSl/Project3/tree/main
-  - 📊 Machine Learning & Data Science
+  - https://github.com/MaryanaSl/Diplom/tree/main
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
