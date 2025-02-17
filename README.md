@@ -40,19 +40,12 @@
 
 ## ⚡️ Мои проекты
 
-- 🔭 https://github.com/MaryanaSl/-1
-- https://github.com/MaryanaSl/Project2
-- https://github.com/MaryanaSl/Project3/tree/main
-  - https://github.com/MaryanaSl/Diplom/tree/main
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
-- 📙 Посмотреть моё резюме [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- [Итоговая работа блока А «Настройки и справочники»](https://github.com/MaryanaSl/-1)
+- [Диплом блока Б "Сделки и деньги"](https://github.com/MaryanaSl/Project2)
+- [Итоговая работа по модулю «Мобильная разработка в 1С»](https://github.com/MaryanaSl/Project3/tree/main)
+- [Дипломный проект профессии «1C-программист: с нуля до middle»](https://github.com/MaryanaSl/Diplom/tree/main)
 
+- 📙 Посмотреть моё резюме [Resume](https://www.linkedin.com/in/hemanthkollipara/)
   
 ## 🖥️ Мои сертификаты с курса 1С-программист
 
