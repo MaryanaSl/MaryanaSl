@@ -12,7 +12,7 @@
 
 <div align="center" style="margin: 30px 0">
    <a href="https://github.com/MaryanaSl/github-profile-views-counter">
-       <img width="100px" src="https://komarev.com/ghpvc/?username=MaryanaSl3&color=DE002D">
+       <img width="110px" src="https://komarev.com/ghpvc/?username=MaryanaSl3&color=DE002D">
    </a>
 </div>
 
