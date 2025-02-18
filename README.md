@@ -14,6 +14,14 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6f1741091f5df684fc34de53bd086f7d1315314ca787261fad4585b0ce49a84/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d66696c696d6f6e6f76616c657865792e66696c696d6f6e6f76616c6578657926"><img src="https://camo.githubusercontent.com/e6f1741091f5df684fc34de53bd086f7d1315314ca787261fad4585b0ce49a84/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d66696c696d6f6e6f76616c657865792e66696c696d6f6e6f76616c6578657926" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=MaryanaSl&" style="max-width: 100%;"></a>
 
 </div>
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/MaryanaSl/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=MaryanaSl3&color=DE002D">
+   </a>
+</div>
+
 <h3 dir="auto"></h3>
 
 <div align="center">
